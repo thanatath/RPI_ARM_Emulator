@@ -17,6 +17,7 @@ QEMU For Raspberry pi With Arm v.7 Emulator Work perfectly with Arm assembly
  - support to latest stretch raspbian
 
 **If you got a problem**
+
 -Lost kernel file
 You can re-download kernel file form my github --> kernel-qemu-4.14.79-stretch
 
