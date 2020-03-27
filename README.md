@@ -2,8 +2,6 @@
 # RPI_ARM_Emulator
 QEMU For Raspberry pi With Arm v.7 Emulator Work perfectly with Arm assembly
 
-![enter image description here](https://github.com/thanatath/RPI_ARM_Emulator/blob/master/LOGO.png?raw=true)
-
 ![Screenshot.png](https://github.com/thanatath/RPI_ARM_Emulator/blob/master/Screenshot.png?raw=true)
 **How to use**
 1.	Clone this git to your pc
