@@ -7,7 +7,7 @@ QEMU For Raspberry pi With Arm v.7 Emulator Work perfectly with Arm assembly
 ![Screenshot.png](https://github.com/thanatath/RPI_ARM_Emulator/blob/master/Screenshot.png?raw=true)
 **How to use**
 1.	Clone this git to your pc
-2.	Download image file at http://downloads.raspberrypi.org/raspbian/images/raspbian-2018-11-15/2018-11-13-raspbian-stretch.zip and drop it in root folder
+2.	Download image file at http://downloads.raspberrypi.org/raspbian/images/raspbian-2018-11-15/2018-11-13-raspbian-stretch.zip Extract it and drop *.img in root folder
 3. Run RPI_EMU_SHIBASAN.exe
 
 **What Working**
