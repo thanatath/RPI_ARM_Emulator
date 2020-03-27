@@ -5,8 +5,12 @@ QEMU For Raspberry pi With Arm v.7 Emulator Work perfectly with Arm assembly
 ![enter image description here](https://github.com/thanatath/RPI_ARM_Emulator/blob/master/LOGO.png?raw=true)
 
 ![Screenshot.png](https://github.com/thanatath/RPI_ARM_Emulator/blob/master/Screenshot.png?raw=true)
-**What Working**
+**How to use**
+1.	Download our Script in release Tap
+2.	Download image file at http://downloads.raspberrypi.org/raspbian/images/raspbian-2018-11-15/2018-11-13-raspbian-stretch.zip and drop it in root folder
+3. Run RPI_EMU_SHIBASAN.exe
 
+**What Working**
  - Arm HW Simulation so you can programing ARM Lang in this 
  - Network Access working with OpenVpn Tap Interface (How to please view to button)
  - Can use with offline environment
