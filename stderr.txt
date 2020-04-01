@@ -1,0 +1,1 @@
+Device tree requested, but qemu was compiled without fdt support
